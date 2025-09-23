@@ -33,5 +33,6 @@ Hello! I’m passionate about merging artificial intelligence with intuitive, be
 
 **🔗 Portfolio:**  
 [Visit my portfolio](https://github.com/Sunayana225/sunayana-portfolio)
+I contribute to my team's github http://github.com/team-npc(feel free to check this page too !!!)
 
 Let’s connect and build the future of AI-driven products together!
