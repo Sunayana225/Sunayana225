@@ -27,7 +27,6 @@ Hello! I’m passionate about merging artificial intelligence with intuitive, be
 **🎲 Fun Facts & Hobbies:**
 
 - French tutor & language learning enthusiast
-- Startup explorer—three startups and counting!
 - Article writer for university events (Newspaper Club)
 - UI/UX aficionado (I redesign interfaces for fun!)
 
