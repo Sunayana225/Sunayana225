@@ -31,9 +31,7 @@ Listings platform with real-time messaging (Firebase) and data-driven UI for sea
 ML fundamentals with PyTorch & scikit-learn — building intuition for model training and evaluation (so I can move beyond calling models to understanding and fine-tuning them).
 
 ## **Open to**
-Internships / entry-level roles in full-stack or AI-integrated application development
-
-Collaborations on AI-powered tools, automation systems, or full-stack applications
+Internships in full-stack development | AI-powered web app collaborations
 
 ---
 
