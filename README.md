@@ -1,37 +1,48 @@
-💼 **Web Development Intern | Aspiring AI/ML Engineer | Computer Science Student**
+Hi, I'm Sunayana 👋
 
-Hello! I’m passionate about merging artificial intelligence with intuitive, beautiful digital experiences. My journey bridges the gap between data-driven intelligence and human-centered design.
+Full-stack developer — I build AI-integrated web apps, reliable backends, and automation that solve real problems.
 
-**💡 Core Skills & Technologies:**
+**Tech Snapshot**
 
-- **AI/ML:** Gemini API, OpenAI API (basics), Python (ML workflows), Prompt Engineering, Data Analysis  
-- **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS, Framer Motion  
-- **Backend:** Flask, Node.js (basic), Firebase  
-- **Design:** Figma, Canva (UI/UX, prototyping, branding)  
-- **Tools:** GitHub, VS Code, Netlify, Streamlit
+**Frontend:** React, JavaScript, HTML, Tailwind
 
-**🤖 AI/ML Highlights:**
+**Backend / APIs:** Node.js, Flask, Custom REST APIs, Firebase / Firestore
 
-- Building AI-powered web applications and tools
-- Integrating LLM APIs for automation, personalization, and content generation
-- Experimenting with prompt engineering and human-centered AI solutions
+**AI & Automation:** RAG (vector search + embeddings), prompt engineering, n8n workflows, lightweight retrieval-based bots
 
-> "Innovate with intelligence. Design with empathy. Build for the future."
+**Tools:** Git, GitHub, Netlify, Streamlit, VS Code
 
-**🌟 What Drives Me:**
+**Selected Projects**
 
-- Exploring how AI can enhance user experiences and solve real-world problems
-- Experimenting with generative AI and prompt engineering
-- Bridging ML insights with compelling, accessible UI
+**PetPal** – Pet food safety checker  
+REST API (Node.js + Firestore) with RAG retrieval for food safety queries
 
-**🎲 Fun Facts & Hobbies:**
+**Discord RAG Bot** – Context-aware chat assistant  
+Vector embeddings + retrieval from a vector DB; uses fetched context to generate answers. Built for real-chat use inside Discord.
 
-- French tutor & language learning enthusiast
-- Article writer for university events (Newspaper Club)
-- UI/UX aficionado (I redesign interfaces for fun!)
+**TaskFlow** – Real-time collaborative task manager  
+React + Firebase. Live chat, notifications, and n8n automations to push updates/workflow steps.
 
-**🔗 Portfolio:**  
-[Visit my portfolio](https://github.com/Sunayana225/sunayana-portfolio)
-I contribute to my team's github http://github.com/team-npc(feel free to check this page too !!!)
+**WeatherGuard** – Emergency alerts & workflows  
+Aggregates weather alerts, triggers automated safety workflows (n8n), and notifies users in real time.
 
-Let’s connect and build the future of AI-driven products together!
+**EstateHub** – Property search & messaging  
+Listings platform with real-time messaging (Firebase) and data-driven UI for searching/filtering properties.
+
+**Research & Algorithms**
+
+**Tabu Search (TSP)** — Experimental project: modified Tabu Search to improve route optimization and exploration–exploitation balance. (Research/algorithm focus — see repo for benchmarks.)
+
+**Currently learning**
+
+ML fundamentals with PyTorch & scikit-learn — building intuition for model training and evaluation (so I can move beyond calling models to understanding and fine-tuning them).
+
+**Open to**
+
+Internships / entry-level roles in full-stack or AI-integrated application development
+
+Collaborations on AI-powered tools, automation systems, or full-stack applications
+
+---
+
+📫 **Let's connect:** [Portfolio](https://sunayana-portfolio-zeta.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/sunayana-yakkala-99145a280/) • [Email](mailto:yakkalasunayana1605@gmail.com)
