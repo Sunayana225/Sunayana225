@@ -34,5 +34,6 @@ ML fundamentals with PyTorch & scikit-learn — building intuition for model tra
 Internships in full-stack development | AI-powered web app collaborations
 
 ---
+[![An image of @sunayana225's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sunayana225)](https://holopin.io/@sunayana225)
 
 📫 **Let's connect:** [Portfolio](https://sunayana-portfolio-zeta.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/sunayana-yakkala-99145a280/) • [Email](mailto:yakkalasunayana1605@gmail.com)
